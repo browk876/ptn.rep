@@ -1,0 +1,69 @@
+Kira Browning
+Domain: paws4you.org
+This website is for an animal rescue organization that I volunteered for in highschool, my mom recently adopted a dog from this organization. The website allows you to browse adoptable pets, apply to adopt or foster a pet, donate to pets in need, sign up to volunteer, make reservations at their daycare, and read about upcoming adoption events.
+
+	 (67.243.240.22)
+New York City
+(40.7834, -73.9662)
+New York is the indigenous homeland of the displaced Lenape people.
+https://www.nyc.gov/site/cchr/about/cchr-land-acknowledgment.page#:~:text=The%20New%20York%20City%20Commission,the%20course%20of%20400%20years.
+
+
+	(34.174.152.96)
+Dallas, Texas
+(32.7831, -98.8065)
+Dallas is the 3rd most populous city in Texas, falling behind Houston and San Antonio.
+https://www.britannica.com/place/Dallas
+
+	(24.29.119.148)
+	New York City 
+	(40.7132, -74.0061)
+	NYC local law 11 requires the use of native plants in public spaces.
+	https://www.nycgovparks.org/learn/trees-and-plants/native-plants-of-new-york-city
+
+
+	(66.109.5.138)
+	El Segundo, California
+	(33.9192, -118.4166)
+	El Segundo is just minutes away from LAX.
+	https://www.destinationelsegundo.com/hotels/about-el-segundo
+
+	(66.109.6.27)
+	Naperville, Illinois
+	(41.7710, -88.1530)
+	Joseph Naper founded Naperville along the DuPage river in 1831.
+	https://www.napersettlement.org/123/City-of-Naperville-History
+
+
+
+	(72.14.195.162) 
+	Mountain View, California
+(37.4060, -122.0785)	
+Mountain View is home to over 83,500 residents.
+https://www.mountainview.gov/our-city/about-mountain-view?locale=en
+
+	(24.30.200.163)
+New York City 
+	(40.7132, -74.0061)
+	NYC local law 11 requires the use of native plants in public spaces.
+	https://www.nycgovparks.org/learn/trees-and-plants/native-plants-of-new-york-city
+
+
+	(66.109.7.93)
+	El Segundo, California
+	(33.9192, -118.4166)
+	El Segundo is just minutes away from LAX.
+	https://www.destinationelsegundo.com/hotels/about-el-segundo
+
+
+
+
+	(34.174.152.96)
+	Dallas, Texas
+(32.7831, -98.8065)
+Dallas is the 3rd most populous city in Texas, falling behind Houston and San Antonio.
+https://www.britannica.com/place/Dallas
+
+
+
+
