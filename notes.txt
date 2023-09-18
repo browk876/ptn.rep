@@ -63,7 +63,3 @@ New York City
 (32.7831, -98.8065)
 Dallas is the 3rd most populous city in Texas, falling behind Houston and San Antonio.
 https://www.britannica.com/place/Dallas
-
-
-
-
