@@ -1,15 +1,14 @@
-body {
-    margin: 0;
-    padding: 0;
-    background-color: #ADD8E6;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    height: 150vh;
+const imageContainer = document.querySelector('.image-container');
+const image = document.querySelector('#image');
+const logoPic = document.getElementById('LogoPic');
+const myPics = ['lenape.jpg', 'dallas.jpg', 'elsegundo.jpg', 'naperville.jpg', 'mountainview.jpg'];
+let picNumber = 1;
+
+function changeImage() {
+    pic.src = MyPicSrc;
+    picNumber = (picNumber + 1) % myPics.length;
+    const newImageSrc = myPics[picNumber];
+
+
 }
-h1 {
-    text-align: center;
-    color: rgb(0, 0, 0);
-    margin-bottom: 10px; 
-}
+
