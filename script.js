@@ -1,7 +1,7 @@
 const imageContainer = document.querySelector('.image-container');
 const image = document.querySelector('#image');
 const logoPic = document.getElementById('LogoPic');
-const myPics = ['lenape.jpg', 'dallas.jpg', 'elsegundo.jpg', 'naperville.jpg', 'mountainview.jpg'];
+const myPics = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg'];
 let picNumber = 1;
 
 function changePic() {
