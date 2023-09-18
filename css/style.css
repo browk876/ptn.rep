@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hwb(201 61% 9%);
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px; 
+}
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px; 
+}
